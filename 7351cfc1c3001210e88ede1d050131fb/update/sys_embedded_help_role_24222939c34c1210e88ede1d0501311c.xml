@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1042039_testing.airport_location_user" name="x_1042039_testing.airport_location_user">a4222939c34c1210e88ede1d0501311a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 18:16:57</sys_created_on>
+        <sys_id>24222939c34c1210e88ede1d0501311c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a4222939c34c1210e88ede1d0501311a</sys_name>
+        <sys_package display_value="Testing Purpose" source="x_1042039_testing">7351cfc1c3001210e88ede1d050131fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Purpose">7351cfc1c3001210e88ede1d050131fb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_24222939c34c1210e88ede1d0501311c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 18:16:57</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

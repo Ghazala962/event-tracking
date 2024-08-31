@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1d9f7d29c3001210e88ede1d0501316c" extends="task" label="NeedIt" max_length="40" name="x_1042039_testing_needit" type="collection">
+        <element label="new field 2" max_length="40" name="new_field_2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>
